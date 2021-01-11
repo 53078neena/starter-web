@@ -15,3 +15,5 @@ something happened
 ## How To Contribute
 changes are doing again
 doing one more changes for making the differences
+## Copyright
+2014 Git.Training.
