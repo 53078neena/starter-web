@@ -18,4 +18,4 @@ changes are doing again
 doing one more changes for making the differences
 please fork this repository and then issue pull request for review
 ## Copyright
-2014 Git.Training.
+2014 Git.Training. All rights reserved
